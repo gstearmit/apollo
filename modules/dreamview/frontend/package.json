@@ -18,7 +18,7 @@
         "font-awesome": "^4.7.0",
         "imports-loader": "0.6.5",
         "jDataView": "^2.3.0",
-        "mobx": "^3.1.10",
+        "mobx": "^3.6.2",
         "mobx-react": "^4.1.8",
         "react": "^16.0.0",
         "react-dom": "^16.0.0",
